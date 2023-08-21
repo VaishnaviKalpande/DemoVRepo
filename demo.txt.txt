@@ -1,6 +1,6 @@
 Hii this from Local Repo
 -- Demo update
 
--- secondB
+-- secondB and its deleted branch
 
 --- update branch
